@@ -1,0 +1,32 @@
+#game {
+padding: 50px;
+background-color: lightblue;
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-left: 200px;
+margin-top: 200px;
+float: left;
+position: relative;
+height: 200px;
+border-style: inset;
+border-width: 20px;
+text-align:Top;
+}
+h1 {
+    color: Red;
+    font-size: 34px;
+    text-underline-position: below;
+    padding: 10px;
+}
+h2 {
+    color:purple;
+    font-weight: bold;
+    text-align: center;
+    
+
+}
+h3 {
+    color:darkorchid;
+    padding: 20ppx;
+    text-align: center;
+    font-size: 20px;
+}
